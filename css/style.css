@@ -1,0 +1,30 @@
+.table th {
+    background: black !important;
+    color:white;
+    text-align:center;
+}
+.container{
+    margin-top: 5%;
+}
+.row {
+    margin-top: 2%;
+}
+input[type="text"] {
+    width:150px;
+}
+td {
+    width:200px;
+    height:40px;
+    padding:1px;
+    max-width:200px;
+    overflow:hidden;
+}
+.table td {
+    vertical-align: middle;
+}
+td:first-child{
+    width:25px;
+}
+.noclick{
+    text-align:center !important;
+}
